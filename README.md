@@ -19,12 +19,10 @@ Here are a few methods of chatbot implementations:
 -  **Chat with Websockets** \
   Real-time streaming capabilities using WebSockets.
 
-</br>
 
 ### Websockets used
 Future developed.
 
-</br>
 
 ### Running locally
 ```shell
