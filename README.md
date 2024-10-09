@@ -3,7 +3,7 @@
 
 This repository provides chatbot application designed using FastAPI and WebSockets and serves OpenAI's gpt-3.5-turbo.
 
-### Technology used
+## Technology used
 Here are a few methods of chatbot implementations:
 
 -  **Static Chatbot** \
@@ -20,14 +20,19 @@ Here are a few methods of chatbot implementations:
   Real-time streaming capabilities using WebSockets.
 
 
-### Websockets used
-Future developed.
+## Websockets used
+- websocket API that allows a two-way interactive communication session between the users browser and server
+- When using a websocket you can send and receive messages based on events without having to poll the server
+
+### What will WebSockets do?
+- By implementing websocket, you can stream data piece by piece
+- If you talk to the chatbot, you will receive an immediate response.
 
 
-### Running locally
-To run a static chatbot:
+## Running locally
+To run a websocket chatbot:
 ```shell
-cd static-chatbot
+cd chatbot-websocket-used
 pip install -r requirements.txt
 ```
 
@@ -37,5 +42,5 @@ uvicorn main:app --reload
 ```
 
 
-### Contributing
+## Contributing
 Planning to add more chatbot examples over time. PRs are welcome.
