@@ -25,7 +25,9 @@ Future developed.
 
 
 ### Running locally
+To run a static chatbot:
 ```shell
+cd static-chatbot
 pip install -r requirements.txt
 ```
 
