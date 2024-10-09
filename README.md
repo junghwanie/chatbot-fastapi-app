@@ -1,7 +1,7 @@
 ## Chatbot Implementations with FastAPI and WebSockets
 
 
-This repository provides chatbot application designed using FastAPI and WebSockets and serves OpenAI's gpt-3.5-turbo.
+This repository provides chatbot application designed using FastAPI and WebSockets and serves OpenAI's gpt-4.
 
 ## Technology used
 Here are a few methods of chatbot implementations:
