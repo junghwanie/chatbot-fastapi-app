@@ -21,11 +21,11 @@ Here are a few methods of chatbot implementations:
 
 
 ## Websockets used
-- websocket API that allows a two-way interactive communication session between the users browser and server
-- When using a websocket you can send and receive messages based on events without having to poll the server
+- websocket API that allows a two-way interactive communication session between the users browser and server.
+- When using a websocket you can send and receive messages based on events without having to poll the server.
 
 ### What will WebSockets do?
-- By implementing websocket, you can stream data piece by piece
+- By implementing websocket, you can stream data piece by piece.
 - If you talk to the chatbot, you will receive an immediate response.
 
 
